@@ -1,1 +1,1 @@
-I put my Mid-Scale projects in this repository.
+I put my Mid-Scaled projects in this repository.
